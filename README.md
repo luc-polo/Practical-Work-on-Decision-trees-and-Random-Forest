@@ -1,5 +1,10 @@
 This repository contains a lab work completed as part of my Decision Trees course. It includes two exercises, each with its own R script, using the same dataset to build a decision tree model (Problem 1) and a random forest model (Problem 2).
-In this project, I address topics such as parameter optimization and cross-validation, implementing manual versions of these techniques to gain a deeper understanding. Additional topics covered include ROC curves, confusion matrices, and pruning.
+
+In this project, the main topics I address are:
+- Parameter optimization and cross-validation, with manual implementations of these techniques to gain a deeper understanding.
+- ROC curves
+- Confusion matrices
+- Pruning decision trees
 
 Structure:
 - Work Assignement:     the detailed instructions and requirements for this lab project on decision trees and random forests
