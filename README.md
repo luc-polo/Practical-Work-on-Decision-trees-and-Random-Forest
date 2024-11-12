@@ -13,4 +13,4 @@ This repository contains a lab work completed as part of my Decision Trees cours
 - Random-Forest.R:      the R code I created to implement the Random Forest for Problem II, along with comments on the results obtained
 - 7 bank-marketing.csv: Dataset used in Problems I and II to build the models
   
-### How to run Code.R
+### How to run Decision-trees.R and Random-Forest.R?
