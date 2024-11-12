@@ -7,7 +7,7 @@ This repository contains a lab work completed as part of my Decision Trees cours
 - Confusion matrices
 - Pruning decision trees
 
-### Repositor Structure:
+### Repository Structure:
 - Work Assignement:     the detailed instructions and requirements for this lab project on decision trees and random forests
 - Decision-Trees.R:     the R code I created to implement the decision tree for Problem I, along with comments on the results obtained
 - Random-Forest.R:      the R code I created to implement the Random Forest for Problem II, along with comments on the results obtained
